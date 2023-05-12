@@ -1,2 +1,2 @@
-# A.N.A-SearchAssistant
+# A.N.A - SearchAssistant
 My first Python research assistant project.
